@@ -1,7 +1,7 @@
 {
     "workshop": {
         "title": "EBS Lift and Shift to Oracle Public Cloud workshop",
-        "description": "This workshop will walk you through the steps required to clone an on-premise EBS 12.2.6 environment to the Oracle Public Cloud (OPC). The application and database tiers are cloned to the same OPC Compute instance. To reduce the transfer time from source environment to target environment, the "on-premise", source EBS instance is also running in an OPC Compute instance. During the workshop, you will get exposure to Oracle Compute Cloud Service.",
+        "description": "This workshop will walk you through the steps required to clone an on-premise EBS 12.2.6 environment to the Oracle Public Cloud (OPC). The application and database tiers are cloned to the same OPC Compute instance. To reduce the transfer time from source environment to target environment, the \"on-premise\", source EBS instance is also running in an OPC Compute instance. During the workshop, you will get exposure to Oracle Compute Cloud Service.",
         "labs": [
 			 {
                 "number": "0",
